@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is E097-AF29
+
+ Directory of E:\Ragav_Pal_Git\MyProject
+
+06-10-2018  20:00    <DIR>          .
+06-10-2018  20:00    <DIR>          ..
+06-10-2018  20:00                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  379,927,834,624 bytes free
